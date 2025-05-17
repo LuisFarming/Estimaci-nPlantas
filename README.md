@@ -1,5 +1,5 @@
 
-# Estimador de Población de Plantas
+# Estimación de Plantas
 
 Esta es una aplicación sencilla desarrollada en Python con la librería Tkinter, diseñada para ayudar a agricultores y técnicos a **estimar la población de plantas** por hectárea y por longitud de hilera, basándose en los espaciamientos de siembra.
 
