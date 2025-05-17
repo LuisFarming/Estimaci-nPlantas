@@ -59,7 +59,7 @@ El objetivo de esta herramienta es facilitar el cálculo rápido de la densidad 
 
 2. Abre una terminal en la carpeta del proyecto.
 
-3. Ejecuta el script: `python estimador_poblacion.py`
+3. Ejecuta el script: `python EstimacionDePlantas.py`
 
 ## Generar Ejecutable (.exe para Windows)
 
@@ -67,7 +67,7 @@ Puedes usar PyInstaller para crear un archivo ejecutable:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile estimador_poblacion.py
+pyinstaller --onefile EstimacionDePlantas.py
 
 Desarrollado por
 LuisFarming
