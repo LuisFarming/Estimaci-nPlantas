@@ -29,7 +29,7 @@ El objetivo de esta herramienta es facilitar el cálculo rápido de la densidad 
 
 ## Cómo usar
 
-1. Ejecuta la aplicación (`EstimadcionDePlantas.py` o el archivo ejecutable `.exe`).
+1. Ejecuta la aplicación (`EstimacionDePlantas.py` o el archivo ejecutable `.exe`).
 
 2. Ve a la pestaña "Calculadora".
 
