@@ -1,0 +1,16 @@
+# Carpetas de compilación
+build/
+dist/
+
+# Archivos de PyInstaller
+*.spec
+
+# Archivos temporales y de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs y temporales
+*.log
+*.tmp
